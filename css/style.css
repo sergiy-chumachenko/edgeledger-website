@@ -51,13 +51,13 @@ img {
     padding: 10px 20px;
     margin: 0 5px;
 }
-.navbar a:hover {
+.navbar nav ul li a:hover {
     border-bottom: #28a745 2px solid;
 }
 .navbar ul {
     display: flex;
 }
-.navbar h1 .logo {
+.navbar a h1 .logo {
     font-weight: 400;
 }
 
